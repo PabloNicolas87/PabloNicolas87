@@ -24,7 +24,12 @@ Frameworks y Librerías: React.js, Next.js, Angular
 </div>
 <br />   
 Estilización: Tailwind CSS, Bootstrap
-
+<div style="display-flex">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+</div>
+<br />
+<br />  
 Back-End
 Lenguajes: Java
 Frameworks: Spring Boot
