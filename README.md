@@ -35,11 +35,19 @@ Soy un desarrollador front-end con un enfoque en el desarrollo web y la nube. Me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 </p>
 
-**Bases de Datos:** Firebase y SQL  
+**Bases de Datos:** Firebase y MYSQL  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MYSQL" width="40" height="40"/>
+</p>
 
 ### Cloud  
-- OCI - Oracle Cloud Infrastructure  
-- AWS - Amazon Web Services  
+OCI - Oracle Cloud Infrastructure  
+AWS - Amazon Web Services
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+</p>
 
 ### Testing  
 - **JUnit y Selenium** para pruebas automatizadas en Java  
