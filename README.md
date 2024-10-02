@@ -1,12 +1,27 @@
-¡Hola! 👋 Soy Pablo<br />
+¡Hola! 👋 Soy Pablo<br /><br />
 Soy un desarrollador front-end con un enfoque en el desarrollo web y la nube. Me encanta trabajar con tecnologías modernas y estar en constante aprendizaje para mejorar mis habilidades. A lo largo de mi carrera, he trabajado en proyectos que van desde la construcción de interfaces de usuario dinámicas hasta la integración con servicios en la nube y la automatización de pruebas.
 
-
+<br />
 🚀 Tecnologías y Herramientas que Utilizo
-
+<br />
 
 Front-End
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
 Lenguajes: HTML, CSS, JavaScript
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" />
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+          
+          
 Frameworks y Librerías: React.js, Next.js, Angular
 Estilización: Tailwind CSS, Bootstrap
 
