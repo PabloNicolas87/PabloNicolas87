@@ -6,8 +6,8 @@ Soy un desarrollador front-end con un enfoque en el desarrollo web y la nube. Me
 ### Front-End  
 **Lenguajes:** HTML, CSS, JavaScript  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
 </p>
 
@@ -50,12 +50,12 @@ AWS - Amazon Web Services
 </p>
 
 ### Testing  
-- **JUnit y Selenium** para pruebas automatizadas en Java
-- <p align="left">
+**JUnit y Selenium** para pruebas automatizadas en Java
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" alt="Junit" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>  
-- **Playwright y Cypress** para pruebas de frontend con JavaScript
+**Playwright y Cypress** para pruebas de frontend con JavaScript
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
