@@ -50,12 +50,12 @@ AWS - Amazon Web Services
 </p>
 
 ### Testing  
-**JUnit y Selenium** para pruebas automatizadas en Java
+JUnit y Selenium para pruebas automatizadas en Java
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" alt="Junit" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
 </p>  
-**Playwright y Cypress** para pruebas de frontend con JavaScript
+Playwright y Cypress para pruebas de frontend con JavaScript
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
