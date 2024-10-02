@@ -1,4 +1,4 @@
-¡Hola! 👋 Soy Pablo
+¡Hola! 👋 Soy Pablo<br />
 Soy un desarrollador front-end con un enfoque en el desarrollo web y la nube. Me encanta trabajar con tecnologías modernas y estar en constante aprendizaje para mejorar mis habilidades. A lo largo de mi carrera, he trabajado en proyectos que van desde la construcción de interfaces de usuario dinámicas hasta la integración con servicios en la nube y la automatización de pruebas.
 
 
