@@ -34,8 +34,19 @@ Estilización: Tailwind CSS, Bootstrap
 <br />
 <br />  
 Back-End
+<br />
 Lenguajes: Java
+<br />
+<div style="display-flex">
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
+</div>
+<br />
 Frameworks: Spring Boot
+<br />
+<div style="display-flex">
+          <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
+</div>
+<br />
 
 Bases de Datos: Firebase y SQL
 
