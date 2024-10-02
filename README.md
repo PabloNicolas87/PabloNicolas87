@@ -10,6 +10,7 @@ Soy un desarrollador front-end con un enfoque en el desarrollo web y la nube. Me
 Front-End
 <br />
 Lenguajes:HTML, CSS, JavaScript
+<br />
 <div style="display-flex">
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>     
@@ -17,6 +18,7 @@ Lenguajes:HTML, CSS, JavaScript
 </div>
 <br />         
 Frameworks y Librerías: React.js, Next.js, Angular
+<br />
 <div style="display-flex">
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="40" height="40"/>
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" width="40" height="40"/>
@@ -24,6 +26,7 @@ Frameworks y Librerías: React.js, Next.js, Angular
 </div>
 <br />   
 Estilización: Tailwind CSS, Bootstrap
+<br />
 <div style="display-flex">
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40"/>
           <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
