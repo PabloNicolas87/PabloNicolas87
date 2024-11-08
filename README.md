@@ -1,5 +1,6 @@
 # Hi 👋, I'm Pablo
-I'm a Front-End Web Developer focused on web development and cloud technologies!
+
+Passionate Front-End Developer with a focus on building scalable web applications and integrating cloud solutions. Always eager to learn and implement modern technologies.
 
 ---
 
@@ -24,7 +25,6 @@ I'm a Front-End Web Developer focused on web development and cloud technologies!
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
     </td>
   </tr>
