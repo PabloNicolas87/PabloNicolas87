@@ -33,7 +33,7 @@ I'm a Front-End Web Developer focused on web development and cloud technologies!
 ---
 
 <details>
-  <summary>▼ All My Technical Skills</summary>
+  All My Technical Skills
   
   | Languages          | Frameworks                       | Technologies                                      |
   |--------------------|----------------------------------|---------------------------------------------------|
