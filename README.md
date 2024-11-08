@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pablo
 
-Passionate Front-End Developer with a focus on building scalable web applications and integrating cloud solutions. Always eager to learn and implement modern technologies.
+Enthusiastic Front-End Developer with a strong focus on crafting scalable, user-friendly web applications and seamless cloud integrations. I thrive on exploring new technologies and leveraging modern tools to deliver clean, efficient code. Passionate about continuous learning, I enjoy tackling challenges and staying at the forefront of web development trends. Let’s build something amazing together!
 
 ---
 
@@ -29,6 +29,7 @@ Passionate Front-End Developer with a focus on building scalable web application
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
     </td>
   </tr>
 </table>
