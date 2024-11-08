@@ -18,6 +18,7 @@ Passionate Front-End Developer with a focus on building scalable web application
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" alt="Next.js" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
@@ -33,9 +34,11 @@ Passionate Front-End Developer with a focus on building scalable web application
 ---
 
 
-## 🌱 Actualmente aprendiendo  
-Estoy expandiendo mis conocimientos en:  
-- Desarrollo en la nube  
-- Automatización de pruebas con Playwright  
-- Optimización de aplicaciones Next.js
+## 🌱 Currently Learning  
+I'm expanding my knowledge in:  
+- Cloud development with AWS  
+- Back-End development with Java + Spring Boot  
+- Back-End development with Node.js + Express + MongoDB  
+
+
 
