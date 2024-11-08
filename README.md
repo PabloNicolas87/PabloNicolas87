@@ -32,13 +32,6 @@ I'm a Front-End Web Developer focused on web development and cloud technologies!
 
 ---
 
-<details>
-  All My Technical Skills
-  
-  | Languages          | Frameworks                       | Technologies                                      |
-  |--------------------|----------------------------------|---------------------------------------------------|
-  | HTML, CSS, JavaScript, Java | React, Next.js, Spring Boot        | Git, Tailwind CSS, Bootstrap, Firebase, Oracle Cloud, AWS |
-</details>
 
 ## 🌱 Actualmente aprendiendo  
 Estoy expandiendo mis conocimientos en:  
