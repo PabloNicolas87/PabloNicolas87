@@ -1,72 +1,45 @@
-# ¡Hola! 👋 Soy Pablo  
-Soy un desarrollador front-end con un enfoque en el desarrollo web y la nube. Me encanta trabajar con tecnologías modernas y estar en constante aprendizaje para mejorar mis habilidades. A lo largo de mi carrera, he trabajado en proyectos que van desde la construcción de interfaces de usuario dinámicas hasta la integración con servicios en la nube y la automatización de pruebas.
+# Hi 👋, I'm Pablo
+I'm a Front-End Web Developer focused on web development and cloud technologies!
 
-## 🚀 Tecnologías y Herramientas que Utilizo  
+---
 
-### Front-End  
-**Lenguajes:** HTML, CSS, JavaScript  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+<table>
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks and Technologies</th>
+    <th>Tools</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" alt="Next.js" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    </td>
+  </tr>
+</table>
 
-**Frameworks y Librerías:** React.js, Next.js, Angular  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-plain.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
-</p>
+---
 
-**Estilización:** Tailwind CSS, Bootstrap  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-</p>
+<details>
+  <summary>▼ All My Technical Skills</summary>
+  
+  | Languages          | Frameworks                       | Technologies                                      |
+  |--------------------|----------------------------------|---------------------------------------------------|
+  | HTML, CSS, JavaScript, Java | React, Next.js, Spring Boot        | Git, Linux, Tailwind CSS, Bootstrap, Firebase, Oracle Cloud, AWS |
+</details>
 
-### Back-End  
-**Lenguajes:** Java  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
-</p>
-
-**Frameworks:** Spring Boot  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
-</p>
-
-**Bases de Datos:** Firebase y MYSQL  
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MYSQL" width="40" height="40"/>
-</p>
-
-### Cloud  
-OCI - Oracle Cloud Infrastructure  
-AWS - Amazon Web Services
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-</p>
-
-### Testing  
-JUnit y Selenium para pruebas automatizadas en Java
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" alt="Junit" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="40" height="40"/>
-</p>  
-Playwright y Cypress para pruebas de frontend con JavaScript
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
-</p>
-
-## 💼 Proyectos Destacados  
-
-### Gestión de Productos con Next.js y Firebase  
-Desarrollé una aplicación de e-commerce donde los usuarios pueden visualizar productos y sus detalles. La aplicación está conectada con Firestore para la gestión de productos, Firebase Storage para las imágenes y Authentication para usuarios autenticados.
-
-### Plataforma de Gestión de Usuarios con Firebase  
 Construí un sistema de gestión de usuarios donde los administradores pueden ver, editar y eliminar usuarios autenticados, integrando Firebase Authentication, Firestore y Firebase Storage.
 
 ## 🌱 Actualmente aprendiendo  
