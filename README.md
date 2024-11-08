@@ -37,10 +37,8 @@ I'm a Front-End Web Developer focused on web development and cloud technologies!
   
   | Languages          | Frameworks                       | Technologies                                      |
   |--------------------|----------------------------------|---------------------------------------------------|
-  | HTML, CSS, JavaScript, Java | React, Next.js, Spring Boot        | Git, Linux, Tailwind CSS, Bootstrap, Firebase, Oracle Cloud, AWS |
+  | HTML, CSS, JavaScript, Java | React, Next.js, Spring Boot        | Git, Tailwind CSS, Bootstrap, Firebase, Oracle Cloud, AWS |
 </details>
-
-Construí un sistema de gestión de usuarios donde los administradores pueden ver, editar y eliminar usuarios autenticados, integrando Firebase Authentication, Firestore y Firebase Storage.
 
 ## 🌱 Actualmente aprendiendo  
 Estoy expandiendo mis conocimientos en:  
