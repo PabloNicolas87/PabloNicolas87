@@ -25,10 +25,6 @@ Enthusiastic Front-End Developer with a strong focus on crafting scalable, user-
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-plain.svg" alt="Next.js" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
     </td>
     <td align="center">
@@ -44,9 +40,9 @@ Enthusiastic Front-End Developer with a strong focus on crafting scalable, user-
 
 ## 🌱 Currently Learning  
 I'm expanding my knowledge in:  
-- Cloud development with AWS  
-- Back-End development with Java + Spring Boot  
-- Back-End development with Node.js + Express + MongoDB  
+- Cloud development with AWS
+- Cloud development with Azure
+- CI/CD Pipeline
 
 
 
