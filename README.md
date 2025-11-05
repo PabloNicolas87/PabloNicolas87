@@ -26,7 +26,7 @@ I believe in **learning by doing**, and I document my journey through practical 
     <th>Cloud & DevOps</th>
     <th>Tools</th>
   </tr>
-  <tr>
+  <tr style="background-color: #1e1e2f;">
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
